@@ -1,0 +1,67 @@
+
+            <div id="header-btm" >
+                <div class="container">
+                    <div class="row">
+                        <div class="span12">
+                                  
+                            <div class="reseau">
+                                <div class="contact">
+                                <!-- <img src="../assets/img/icon-phone.png" alt="icon"> -->
+                                <p>Appel pour assistance / +229 90 00 00 01</p>
+                                </div>
+                                <ul>
+                                <li><img src="../assets/img/icon-facebook.png" alt="icon">
+                                        <p> <a href="https://web.facebook.com/It-Services-Solutions-105295647868069/?view_public_for=105295647868069">Facebook</a></p>
+                                    </li>
+                                    <li><img src="../assets/img/icon-twitter.png" alt="icon">
+                                        <p> <a href="#">Twitter</a></p>
+                                    </li>
+                                    <li><img src="../assets/img/icon-linkedin.png" alt="icon">
+                                        <p> <a href="https://www.linkedin.com/in/itech-itech-65ba121aa">Linkedin</a></p>
+                                    </li>
+                                    <li><img src="../assets/img/icon-user.png" alt="icon">
+                                        <p> <a href="#myModal" role="button" data-toggle="modal">Login</a></p>
+                                    </li>
+                                </ul>
+                            </div>    
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+.............................................................style................................
+
+ @media (max-width: 767px){
+                #header-inner{
+                    max-width: 447px;
+                }
+               .smoothmenu {
+               padding-right:130px;
+                }
+
+                #header-btm ul{
+                    padding-right:20px;
+                }
+               .reseau{
+                   padding:10 0 0 10;
+               }
+
+            }
+
+media de style---------------------------------------------
+
+#header-btm p {
+margin-top: 0px;
+display: none;
+}
+#header-btm ul li {
+	padding-left: 1px;
+	
+}
+#header-btm ul {
+	padding-right: 50px;
+	
+	
+}
